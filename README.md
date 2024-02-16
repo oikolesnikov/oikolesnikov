@@ -3,7 +3,6 @@
 <h3 align="center">Web developer from Russia 🇷🇺</h3>
 
 Welcome to my page!
-I'm Oleg, junior frontend developer.
 
 [<img alt="Telegram" src="https://img.shields.io/badge/@oikolesnikov-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/oikolesnikov) [<img alt="Instagram" src="https://img.shields.io/badge/oikolesnikov-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/kolesnikov_informal) [<img alt="Gmail" src="https://img.shields.io/badge/oikolesnikovvv@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:oikolesnikovvv@gmail.com) 
 
