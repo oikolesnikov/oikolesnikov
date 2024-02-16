@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">OLeg</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer, student from Russia 🇷🇺</h3>
----
+
 Welcome to my page!
 I'm Oleg, junior frontend developer.
 
